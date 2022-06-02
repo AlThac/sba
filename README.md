@@ -3,9 +3,9 @@ Sba FrontEnd
 Technical requirements:
 
     HTML
-  Have at least 3 pages, keep the grid system consistent as much as possible
-  Use at least 10 different HTML tags
-  Use HTML tables
+  Have at least 3 pages, keep the grid system consistent as much as possible /n
+  Use at least 10 different HTML tags /n
+  Use HTML tables /n
   Implement at least two uses for forms
   Dropped Down Menu 
   Use web fonts
